@@ -31,5 +31,6 @@ Documento oficial PNS2013-IBGE: https://www.icict.fiocruz.br/sites/www.icict.fio
 Paineis Fiocruz:
 https://www.pns.icict.fiocruz.br/
 
-Metodologia utilizada pelo IBGE: 
+Metodologia utilizada pelo IBGE:
+
 Damacena GN, Szwarcwald CL, Malta DC, Souza Júnior PRBD, Vieira MLFP, Pereira CA, et al. O processo de desenvolvimento da Pesquisa Nacional de Saúde no Brasil, 2013. Epidemiol Serv Saude. 2015;24(2):197-206. doi 10.5123/S1679-49742015000200002 
