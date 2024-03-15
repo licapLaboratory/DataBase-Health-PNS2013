@@ -1,5 +1,5 @@
 # DataBase-Health-PNS2013
-Bases de dados de população com doenças crônicas diagnosticadas na Pesquisa Nacional em Saúde, PNS2013 do IBGE
+Bases de dados de população com doenças crônicas diagnosticadas na Pesquisa Nacional em Saúde, PNS2013 do IBGE para construção de modelos de aprendizado e mineração de dados
 As Bases de Dados possuem a mesma quantidade de registros com/sem o diagnóstico de doença para fins de classificação e balanceamento.
 Bases: 
 Colesterol/Hipertensão Arterial/Angina/Artrite-reumatismo/Asma-bronquite-asmatica/AVC-derrame/
